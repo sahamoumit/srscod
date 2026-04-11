@@ -1,0 +1,51 @@
+geography,rank,cause,male_pct,female_pct,person_pct
+India,1,Cardiovascular diseases,33.9,30.7,35.6
+India,2,Malignant and other Neoplasms,7.5,13.1,9.2
+India,3,Respiratory infections,7.8,9.1,8.4
+India,4,Digestive diseases,11.2,4.9,7.8
+India,5,Respiratory diseases,3.7,4.5,4.9
+India,6,Genito-urinary diseases,4.1,4.3,4.0
+India,7,Diabetes mellitus,2.8,4.1,3.9
+India,8,Fever of unknown origin,2.9,4.5,3.8
+India,9,Unintentional injuries: Motor Vehicle Accidents,5.9,2.5,3.7
+India,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.5,4.2,4.1
+EAG and Assam,1,Cardiovascular diseases,30.1,28.1,31.5
+EAG and Assam,2,Digestive diseases,11.4,6.6,8.6
+EAG and Assam,3,Respiratory infections,7.9,9.0,8.6
+EAG and Assam,4,Malignant and other Neoplasms,7.4,11.3,8.4
+EAG and Assam,5,Respiratory diseases,4.5,4.8,5.8
+EAG and Assam,6,Fever of unknown origin,3.9,5.5,5.0
+EAG and Assam,7,Tuberculosis,5.2,4.4,4.7
+EAG and Assam,8,Unintentional injuries: Motor Vehicle Accidents,6.7,2.7,4.2
+EAG and Assam,9,Unintentional injuries: Other Than Motor Vehicle Accidents,4.6,4.3,3.9
+EAG and Assam,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.2,3.9,3.8
+Other States,1,Cardiovascular diseases,35.8,32.1,37.7
+Other States,2,Malignant and other Neoplasms,7.6,14.1,9.6
+Other States,3,Respiratory infections,7.8,9.2,8.4
+Other States,4,Digestive diseases,11.1,4.0,7.4
+Other States,5,Respiratory diseases,3.3,4.4,4.5
+Other States,6,Genito-urinary diseases,4.2,4.8,4.2
+Other States,7,Diabetes mellitus,3.0,4.3,4.2
+Other States,8,Intentional injuries: Suicide,5.3,3.7,3.4
+Other States,9,Unintentional injuries: Motor Vehicle Accidents,5.5,2.4,3.4
+Other States,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.7,4.5,4.2
+Rural,1,Cardiovascular diseases,33.2,30.0,34.8
+Rural,2,Malignant and other Neoplasms,7.5,13.5,9.3
+Rural,3,Respiratory infections,7.4,8.5,7.9
+Rural,4,Digestive diseases,11.0,4.9,7.7
+Rural,5,Respiratory diseases,3.9,4.7,5.2
+Rural,6,Fever of unknown origin,3.1,4.7,4.0
+Rural,7,Genito-urinary diseases,4.0,4.2,4.0
+Rural,8,Unintentional injuries: Motor Vehicle Accidents,6.0,2.7,3.8
+Rural,9,Diabetes mellitus,2.7,3.9,3.7
+Rural,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.6,4.3,4.2
+Urban,1,Cardiovascular diseases,36.4,33.1,38.2
+Urban,2,Respiratory infections,9.2,11.2,10.2
+Urban,3,Malignant and other Neoplasms,7.6,11.9,8.9
+Urban,4,Digestive diseases,11.9,4.9,8.1
+Urban,5,Diabetes mellitus,3.1,5.0,4.4
+Urban,6,Genito-urinary diseases,4.3,4.6,4.2
+Urban,7,Respiratory diseases,2.9,3.7,3.9
+Urban,8,Unintentional injuries: Motor Vehicle Accidents,5.6,2.1,3.3
+Urban,9,Fever of unknown origin,2.3,3.8,2.9
+Urban,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.1,3.9,3.6

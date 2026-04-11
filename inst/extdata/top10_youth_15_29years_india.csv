@@ -1,0 +1,51 @@
+geography,rank,cause,male_pct,female_pct,person_pct
+India,1,Intentional injuries: Suicide,17.0,17.8,17.3
+India,2,Unintentional injuries: Motor Vehicle Accidents,23.3,5.7,16.4
+India,3,Cardiovascular diseases,9.7,9.7,9.7
+India,4,Unintentional injuries: Other Than Motor Vehicle Accidents,10.1,5.8,8.4
+India,5,Digestive diseases,6.9,6.3,6.6
+India,6,Respiratory infections,3.6,5.6,4.4
+India,7,Malignant and other Neoplasms,3.5,4.9,4.0
+India,8,Fever of unknown origin,2.9,5.2,3.8
+India,9,Tuberculosis,2.5,4.6,3.3
+India,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",5.6,6.5,6.0
+EAG and Assam,1,Unintentional injuries: Motor Vehicle Accidents,23.7,5.0,15.6
+EAG and Assam,2,Intentional injuries: Suicide,12.8,12.0,12.4
+EAG and Assam,3,Unintentional injuries: Other Than Motor Vehicle Accidents,11.9,7.4,10.0
+EAG and Assam,4,Cardiovascular diseases,8.6,7.9,8.3
+EAG and Assam,5,Digestive diseases,7.1,8.0,7.5
+EAG and Assam,6,Respiratory infections,3.6,5.4,4.4
+EAG and Assam,7,Tuberculosis,3.3,5.7,4.4
+EAG and Assam,8,Fever of unknown origin,3.3,5.2,4.1
+EAG and Assam,9,Diarrhoeal diseases,2.4,6.1,4.0
+EAG and Assam,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",5.0,5.6,5.2
+Other States,1,Intentional injuries: Suicide,20.1,23.4,21.3
+Other States,2,Unintentional injuries: Motor Vehicle Accidents,23.0,6.3,17.1
+Other States,3,Cardiovascular diseases,10.5,11.4,10.8
+Other States,4,Unintentional injuries: Other Than Motor Vehicle Accidents,8.9,4.2,7.2
+Other States,5,Digestive diseases,6.7,4.6,6.0
+Other States,6,Respiratory infections,3.6,5.8,4.4
+Other States,7,Malignant and other Neoplasms,3.3,5.6,4.1
+Other States,8,Fever of unknown origin,2.7,5.1,3.5
+Other States,9,Neuro-psychiatric conditions,2.7,3.2,2.9
+Other States,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",3.8,4.9,4.2
+Rural,1,Intentional injuries: Suicide,17.8,17.9,17.9
+Rural,2,Unintentional injuries: Motor Vehicle Accidents,23.5,5.8,16.5
+Rural,3,Cardiovascular diseases,9.6,9.3,9.5
+Rural,4,Unintentional injuries: Other Than Motor Vehicle Accidents,10.2,6.3,8.7
+Rural,5,Digestive diseases,6.6,6.4,6.5
+Rural,6,Respiratory infections,3.3,5.3,4.1
+Rural,7,Malignant and other Neoplasms,3.2,4.7,3.8
+Rural,8,Fever of unknown origin,2.9,5.0,3.7
+Rural,9,Tuberculosis,2.6,4.9,3.5
+Rural,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",5.7,6.9,6.2
+Urban,1,Unintentional injuries: Motor Vehicle Accidents,22.5,5.2,16.0
+Urban,2,Intentional injuries: Suicide,13.9,17.4,15.2
+Urban,3,Cardiovascular diseases,10.2,11.3,10.6
+Urban,4,Unintentional injuries: Other Than Motor Vehicle Accidents,9.8,3.4,7.4
+Urban,5,Digestive diseases,7.8,5.9,7.1
+Urban,6,Respiratory infections,4.8,6.8,5.6
+Urban,7,Malignant and other Neoplasms,4.9,5.4,5.1
+Urban,8,Fever of unknown origin,3.0,5.9,4.1
+Urban,9,Diarrhoeal diseases,2.0,4.7,3.0
+Urban,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",5.2,4.6,5.0

@@ -1,0 +1,9 @@
+residence,cause_group,male_n,female_n,person_n,male_pct,female_pct,person_pct
+Rural,Non-Communicable diseases,41786,27121,68907,57.5,53.0,55.7
+Rural,Communicable maternal perinatal and nutritional conditions,15943,13412,29355,21.9,26.2,23.7
+Rural,Injuries,8555,3642,12197,11.8,7.1,9.9
+Rural,Symptoms signs and Ill-defined conditions,6370,6964,13334,8.8,13.6,10.8
+Urban,Non-Communicable diseases,13115,8298,21413,62.7,56.9,60.3
+Urban,Communicable maternal perinatal and nutritional conditions,4272,3630,7902,20.4,24.9,22.3
+Urban,Injuries,1976,838,2814,9.4,5.8,7.9
+Urban,Symptoms signs and Ill-defined conditions,1568,1806,3374,7.5,12.4,9.5

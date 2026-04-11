@@ -1,0 +1,22 @@
+Package: srscod
+Title: India SRS Causes of Death Statistics 2021-2023
+Version: 1.0.0
+Authors@R: 
+    person("Moumita", "Saha", email = "your.email@example.com", role = c("aut", "cre"))
+Description: Provides tidy datasets and analytical functions from the Sample
+    Registration System (SRS) Causes of Death Report 2021-2023, published by
+    the Office of the Registrar General of India (ORGI). Covers 1,59,296 coded
+    deaths across 28 states and 8 UTs, classified under 63 ICD-10 cause
+    categories. Functions support stratified queries by sex, age group, state
+    category (EAG+Assam vs Other States), residence (Rural/Urban), and
+    geographic zone.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends: R (>= 4.0.0)
+Imports:
+    ggplot2 (>= 3.4.0),
+    tidyr (>= 1.2.0)
+Suggests:
+    testthat (>= 3.0.0)

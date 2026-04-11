@@ -1,0 +1,51 @@
+geography,rank,cause,male_pct,female_pct,person_pct
+India,1,Unintentional injuries: Other Than Motor Vehicle Accidents,22.0,16.1,19.4
+India,2,Respiratory infections,7.8,8.4,8.1
+India,3,Fever of unknown origin,8.2,7.8,8.0
+India,4,Unintentional injuries: Motor Vehicle Accidents,9.4,3.6,6.9
+India,5,Diarrhoeal diseases,5.5,8.3,6.7
+India,6,Digestive diseases,4.7,7.5,5.9
+India,7,Neuro-psychiatric conditions,5.2,5.8,5.5
+India,8,Other infectious and parasitic diseases,4.7,6.2,5.4
+India,9,Malignant and other Neoplasms,4.9,5.1,5.0
+India,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",8.0,7.1,7.6
+EAG and Assam,1,Unintentional injuries: Other Than Motor Vehicle Accidents,22.7,19.0,21.0
+EAG and Assam,2,Diarrhoeal diseases,6.0,12.0,8.7
+EAG and Assam,3,Fever of unknown origin,8.5,7.5,8.1
+EAG and Assam,4,Respiratory infections,7.1,7.8,7.4
+EAG and Assam,5,Unintentional injuries: Motor Vehicle Accidents,10.3,3.6,7.3
+EAG and Assam,6,Digestive diseases,6.4,7.8,7.1
+EAG and Assam,7,Other infectious and parasitic diseases,5.3,6.7,5.9
+EAG and Assam,8,Neuro-psychiatric conditions,5.5,4.7,5.2
+EAG and Assam,9,Malignant and other Neoplasms,4.4,3.9,4.2
+EAG and Assam,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",8.5,6.4,7.6
+Other States,1,Unintentional injuries: Other Than Motor Vehicle Accidents,21.3,13.0,17.7
+Other States,2,Respiratory infections,8.5,9.1,8.8
+Other States,3,Fever of unknown origin,7.8,8.2,8.0
+Other States,4,Unintentional injuries: Motor Vehicle Accidents,8.5,3.6,6.4
+Other States,5,Malignant and other Neoplasms,5.5,6.3,5.8
+Other States,6,Neuro-psychiatric conditions,5.0,6.9,5.8
+Other States,7,Intentional injuries: Suicide,5.0,6.0,5.4
+Other States,8,Digestive diseases,2.8,7.3,4.8
+Other States,9,Other infectious and parasitic diseases,4.0,5.7,4.8
+Other States,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",6.4,7.3,6.8
+Rural,1,Unintentional injuries: Other Than Motor Vehicle Accidents,21.4,16.7,19.3
+Rural,2,Fever of unknown origin,8.2,8.0,8.1
+Rural,3,Respiratory infections,7.9,8.0,7.9
+Rural,4,Diarrhoeal diseases,5.5,9.1,7.1
+Rural,5,Unintentional injuries: Motor Vehicle Accidents,9.6,3.6,7.0
+Rural,6,Digestive diseases,4.9,7.1,5.9
+Rural,7,Other infectious and parasitic diseases,4.9,6.3,5.6
+Rural,8,Neuro-psychiatric conditions,4.9,5.8,5.3
+Rural,9,Malignant and other Neoplasms,5.1,4.0,4.6
+Rural,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",8.6,6.5,7.7
+Urban,1,Unintentional injuries: Other Than Motor Vehicle Accidents,24.8,13.9,19.6
+Urban,2,Respiratory infections,7.4,10.2,8.7
+Urban,3,Fever of unknown origin,8.1,7.3,7.7
+Urban,4,Malignant and other Neoplasms,4.0,9.5,6.6
+Urban,5,Digestive diseases,3.4,9.5,6.3
+Urban,6,Neuro-psychiatric conditions,6.7,5.8,6.3
+Urban,7,Unintentional injuries: Motor Vehicle Accidents,8.7,3.6,6.3
+Urban,8,Diarrhoeal diseases,5.4,5.1,5.2
+Urban,9,Other infectious and parasitic diseases,3.4,5.8,4.5
+Urban,10,"Ill-defined/All other symptoms, signs and abnormal clinical and laboratory findings",5.4,9.5,7.3

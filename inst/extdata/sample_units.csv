@@ -1,0 +1,39 @@
+state_ut,category,eag_group,units_total,units_rural,units_urban,pop_total_000,pop_rural_000,pop_urban_000
+India,National,National,8839,4960,3879,8810,6323,2487
+Andhra Pradesh,Bigger,Other,325,198,127,358,275,82
+Assam,Bigger,EAG,299,89,210,252,122,130
+Bihar,Bigger,EAG,330,200,130,412,326,86
+Chhattisgarh,Bigger,EAG,158,73,85,130,78,51
+NCT of Delhi,Bigger,Other,196,10,186,160,17,143
+Gujarat,Bigger,Other,476,231,245,465,316,149
+Haryana,Bigger,Other,256,144,112,280,208,71
+Jammu & Kashmir,Bigger,Other,279,177,102,232,187,45
+Jharkhand,Bigger,EAG,210,91,119,180,107,73
+Karnataka,Bigger,Other,511,361,150,515,421,94
+Kerala,Bigger,Other,280,175,105,394,332,62
+Madhya Pradesh,Bigger,EAG,448,285,163,445,339,106
+Maharashtra,Bigger,Other,660,306,354,606,389,217
+Odisha,Bigger,EAG,405,290,115,387,314,74
+Punjab,Bigger,Other,249,130,119,237,160,77
+Rajasthan,Bigger,EAG,350,236,114,362,297,65
+Tamil Nadu,Bigger,Other,544,235,309,568,349,218
+Telangana,Bigger,Other,224,121,103,234,164,69
+Uttar Pradesh,Bigger,EAG,500,328,172,582,465,116
+Uttarakhand,Bigger,EAG,374,195,179,342,214,128
+West Bengal,Bigger,Other,555,304,251,596,450,147
+Arunachal Pradesh,Smaller,Other,65,50,15,56,41,15
+Goa,Smaller,Other,95,45,50,94,69,25
+Himachal Pradesh,Smaller,Other,210,155,55,126,96,30
+Manipur,Smaller,Other,165,120,45,133,108,25
+Meghalaya,Smaller,Other,130,95,35,92,71,21
+Mizoram,Smaller,Other,45,25,20,38,26,12
+Nagaland,Smaller,Other,50,35,15,38,30,8
+Sikkim,Smaller,Other,65,50,15,73,57,15
+Tripura,Smaller,Other,90,65,25,120,103,17
+Andaman & Nicobar Islands,UT,Other,55,37,18,60,45,15
+Chandigarh,UT,Other,40,5,35,43,12,31
+Dadra & Nagar Haveli,UT,Other,35,15,20,45,30,16
+Daman & Diu,UT,Other,25,15,10,33,24,9
+Ladakh,UT,Other,71,49,22,54,47,8
+Lakshadweep,UT,Other,14,2,12,15,4,11
+Puducherry,UT,Other,55,18,37,53,30,24

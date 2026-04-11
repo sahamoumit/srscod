@@ -1,0 +1,51 @@
+geography,rank,cause,male_pct,female_pct,person_pct
+India,1,Prematurity & low birth weight,31.3,29.8,30.7
+India,2,Pneumonia,15.8,16.8,16.3
+India,3,Birth asphyxia & birth trauma,10.6,8.8,9.8
+India,4,Ill-defined or cause unknown,10.2,9.4,9.8
+India,5,Other Non-Communicable Diseases,8.0,8.8,8.4
+India,6,Congenital anomalies,6.0,5.5,5.8
+India,7,Diarrhoeal diseases,4.0,4.7,4.3
+India,8,Injuries,4.4,3.9,4.2
+India,9,Fever of unknown origin,3.4,4.7,4.0
+India,10,Sepsis,4.0,3.7,3.9
+EAG and Assam,1,Prematurity & low birth weight,32.1,31.6,31.9
+EAG and Assam,2,Pneumonia,17.6,18.1,17.8
+EAG and Assam,3,Birth asphyxia & birth trauma,11.1,9.1,10.2
+EAG and Assam,4,Other Non-Communicable Diseases,7.3,7.2,7.3
+EAG and Assam,5,Diarrhoeal diseases,4.4,5.4,4.8
+EAG and Assam,6,Congenital anomalies,4.6,4.3,4.5
+EAG and Assam,7,Sepsis,4.2,3.8,4.0
+EAG and Assam,8,Injuries,3.9,4.2,4.0
+EAG and Assam,9,Fever of unknown origin,3.4,4.6,3.9
+EAG and Assam,10,Ill-defined or cause unknown,8.7,7.7,8.2
+Other States,1,Prematurity & low birth weight,30.0,26.9,28.7
+Other States,2,Pneumonia,12.9,14.7,13.7
+Other States,3,Other Non-Communicable Diseases,9.5,11.0,10.2
+Other States,4,Birth asphyxia & birth trauma,9.8,8.3,9.2
+Other States,5,Congenital anomalies,8.0,7.8,7.9
+Other States,6,Injuries,4.9,3.9,4.5
+Other States,7,Fever of unknown origin,3.5,4.8,4.0
+Other States,8,Sepsis,3.7,3.5,3.6
+Other States,9,Diarrhoeal diseases,3.4,3.5,3.4
+Other States,10,Ill-defined or cause unknown,12.1,12.6,12.3
+Rural,1,Prematurity & low birth weight,31.1,29.3,30.3
+Rural,2,Pneumonia,16.5,16.6,16.5
+Rural,3,Birth asphyxia & birth trauma,10.4,8.7,9.7
+Rural,4,Other Non-Communicable Diseases,7.8,8.4,8.0
+Rural,5,Congenital anomalies,5.6,5.5,5.5
+Rural,6,Injuries,4.4,4.4,4.4
+Rural,7,Diarrhoeal diseases,3.9,4.9,4.4
+Rural,8,Fever of unknown origin,3.7,4.8,4.2
+Rural,9,Sepsis,4.0,3.8,3.9
+Rural,10,Ill-defined or cause unknown,9.9,9.8,9.9
+Urban,1,Prematurity & low birth weight,32.5,32.5,32.5
+Urban,2,Pneumonia,12.0,18.1,14.7
+Urban,3,Birth asphyxia & birth trauma,11.9,9.1,10.6
+Urban,4,Other Non-Communicable Diseases,10.1,10.1,10.1
+Urban,5,Congenital anomalies,7.7,6.2,7.0
+Urban,6,Diarrhoeal diseases,4.3,3.3,3.8
+Urban,7,Sepsis,3.7,3.1,3.4
+Urban,8,Injuries,3.4,2.6,3.0
+Urban,9,Fever of unknown origin,1.9,3.8,2.8
+Urban,10,Ill-defined or cause unknown,9.9,8.4,9.3

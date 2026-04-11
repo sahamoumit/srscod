@@ -1,0 +1,51 @@
+geography,rank,cause,male_pct,female_pct,person_pct
+India,1,Prematurity & low birth weight,48.2,47.9,48.0
+India,2,Birth asphyxia & birth trauma,16.9,14.8,16.0
+India,3,Pneumonia,8.4,9.9,9.0
+India,4,Other Non-Communicable Diseases,5.2,6.1,5.6
+India,5,Congenital anomalies,4.5,4.3,4.4
+India,6,Sepsis,5.3,5.4,5.3
+India,7,Diarrhoeal diseases,1.0,1.0,1.0
+India,8,Fever of unknown origin,0.5,0.6,0.5
+India,9,Injuries,0.7,0.8,0.7
+India,10,Ill-defined or cause unknown,9.3,8.8,9.1
+EAG and Assam,1,Prematurity & low birth weight,48.2,50.0,48.9
+EAG and Assam,2,Birth asphyxia & birth trauma,17.5,15.0,16.5
+EAG and Assam,3,Pneumonia,9.3,11.2,10.1
+EAG and Assam,4,Sepsis,5.8,5.3,5.6
+EAG and Assam,5,Other Non-Communicable Diseases,5.6,5.5,5.6
+EAG and Assam,6,Congenital anomalies,3.4,3.3,3.4
+EAG and Assam,7,Diarrhoeal diseases,1.1,1.2,1.1
+EAG and Assam,8,Fever of unknown origin,0.7,0.8,0.7
+EAG and Assam,9,Injuries,0.6,0.7,0.6
+EAG and Assam,10,Ill-defined or cause unknown,7.5,6.7,7.2
+Other States,1,Prematurity & low birth weight,48.1,44.1,46.4
+Other States,2,Birth asphyxia & birth trauma,15.7,14.3,15.2
+Other States,3,Pneumonia,6.7,7.5,7.0
+Other States,4,Congenital anomalies,6.1,5.8,6.0
+Other States,5,Other Non-Communicable Diseases,4.4,7.2,5.6
+Other States,6,Sepsis,4.8,6.1,5.4
+Other States,7,Injuries,0.9,0.8,0.8
+Other States,8,Diarrhoeal diseases,1.0,0.3,0.7
+Other States,9,Fever of unknown origin,0.5,0.3,0.4
+Other States,10,Ill-defined or cause unknown,11.3,13.4,12.2
+Rural,1,Prematurity & low birth weight,48.2,47.3,47.8
+Rural,2,Birth asphyxia & birth trauma,16.7,15.0,16.0
+Rural,3,Pneumonia,8.6,9.5,9.0
+Rural,4,Sepsis,5.6,5.6,5.6
+Rural,5,Other Non-Communicable Diseases,5.1,6.3,5.6
+Rural,6,Congenital anomalies,4.1,4.1,4.1
+Rural,7,Diarrhoeal diseases,1.1,0.9,1.0
+Rural,8,Fever of unknown origin,0.7,0.7,0.7
+Rural,9,Injuries,0.7,0.8,0.7
+Rural,10,Ill-defined or cause unknown,8.9,9.2,9.0
+Urban,1,Prematurity & low birth weight,47.9,50.5,49.0
+Urban,2,Birth asphyxia & birth trauma,17.9,13.6,16.0
+Urban,3,Pneumonia,7.0,11.5,9.0
+Urban,4,Other Non-Communicable Diseases,5.8,5.3,5.6
+Urban,5,Congenital anomalies,6.3,4.3,5.4
+Urban,6,Sepsis,4.8,5.3,5.0
+Urban,7,Diarrhoeal diseases,0.7,0.6,0.7
+Urban,8,Injuries,0.7,0.3,0.5
+Urban,9,Fever of unknown origin,0.2,0.0,0.1
+Urban,10,Ill-defined or cause unknown,8.5,8.4,8.4

@@ -1,0 +1,21 @@
+group,rank,cause,male_pct,female_pct,person_pct
+EAG and Assam,1,Cardiovascular diseases,27.2,24.6,26.1
+EAG and Assam,2,Respiratory infections,9.5,11.0,10.2
+EAG and Assam,3,Fever of unknown origin,5.4,7.4,6.2
+EAG and Assam,4,Respiratory diseases,6.1,6.2,6.2
+EAG and Assam,5,Digestive diseases,6.9,4.4,5.8
+EAG and Assam,6,Malignant and other Neoplasms,5.2,5.8,5.5
+EAG and Assam,7,Perinatal conditions,4.3,4.3,4.3
+EAG and Assam,8,Unintentional injuries: Other Than Motor Vehicle Accidents,4.2,4.0,4.1
+EAG and Assam,9,Diarrhoeal diseases,2.8,4.5,3.5
+EAG and Assam,10,Ill-defined/All other symptoms signs and abnormal clinical findings,7.8,10.8,9.0
+Other States,1,Cardiovascular diseases,35.2,31.5,33.6
+Other States,2,Respiratory infections,8.5,9.3,8.8
+Other States,3,Malignant and other Neoplasms,6.4,7.5,6.8
+Other States,4,Respiratory diseases,5.3,5.8,5.5
+Other States,5,Digestive diseases,6.7,2.6,5.0
+Other States,6,Fever of unknown origin,3.5,5.3,4.2
+Other States,7,Diabetes mellitus,3.5,4.8,4.0
+Other States,8,Unintentional injuries: Other Than Motor Vehicle Accidents,3.5,3.4,3.5
+Other States,9,Genito-urinary diseases,3.5,2.9,3.3
+Other States,10,Ill-defined/All other symptoms signs and abnormal clinical findings,8.9,14.7,11.3
