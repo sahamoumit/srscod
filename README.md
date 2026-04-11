@@ -11,7 +11,7 @@ Registrar General of India (ORGI).
 ```r
 # Install from GitHub
 # install.packages("devtools")
-devtools::install_github("YOUR_GITHUB_USERNAME/srscod")
+devtools::install_github("sahamoumit/srscod")
 ```
 
 > **Note for developers (Apple Silicon / R 4.5):** If you encounter a
@@ -221,7 +221,7 @@ original data source:
 
 **Package:**
 > Saha, M. (2025). *srscod: India SRS Causes of Death Statistics 2021-2023*.
-> R package version 1.0.0. https://github.com/YOUR_GITHUB_USERNAME/srscod
+> R package version 1.0.0. https://github.com/sahamoumit/srscod
 
 **Data source:**
 > Office of the Registrar General of India (2025). *Causes of Death Statistics
