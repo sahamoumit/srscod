@@ -1,0 +1,97 @@
+---
+title: "Introduction to srscod: Exploring India's SRS Causes of Death Data"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to srscod}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment  = "#>",
+  fig.width  = 7,
+  fig.height = 5,
+  warning = FALSE,
+  message = FALSE
+)
+```
+
+```{r load_package}
+library(srscod)
+```
+
+## Overview
+
+**srscod** provides tidy access to all tables from the SRS Causes of Death
+Report 2021-2023, published by the Office of the Registrar General of India.
+
+---
+
+## 1. Installation
+
+```{r install, eval = FALSE}
+devtools::install_github("sahamoumit/srscod")
+```
+
+## 2. National summary
+
+```{r summary}
+srs_summary()
+```
+
+## 3. Raw data
+
+```{r srs_allages}
+srs_data("top10_allages_india")
+```
+
+```{r srs_youth}
+srs_data("top10_youth")
+```
+
+## 4. Life course comparison
+
+```{r age_band}
+age_band_comparison()
+```
+
+## 5. Tracking one cause
+
+```{r find_cvd}
+find_cause_across_ages("Cardiovascular")
+```
+
+## 6. Gender disparity
+
+```{r gender_all}
+gender_disparity("all_ages")
+```
+
+## 7. EAG states vs others
+
+```{r eag}
+eag_disparity()
+```
+
+## 8. Plots
+
+```{r plot_allages}
+plot_top_causes("all_ages")
+```
+
+```{r plot_pyramid}
+plot_age_pyramid()
+```
+
+```{r plot_groups}
+plot_cause_group_comparison()
+```
+
+## Session info
+
+```{r session_info}
+sessionInfo()
+```
+

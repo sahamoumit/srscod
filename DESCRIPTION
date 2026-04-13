@@ -19,6 +19,9 @@ Imports:
     ggplot2 (>= 3.4.0),
     tidyr (>= 1.2.0)
 Suggests:
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    knitr,
+    rmarkdown
 URL: https://github.com/sahamoumit/srscod
 BugReports: https://github.com/sahamoumit/srscod/issues
+VignetteBuilder: knitr
